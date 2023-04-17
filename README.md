@@ -4,8 +4,8 @@
 
 - [Ai](#ai)
   - [Sound](#sound)
-  - [writing](#writing)
-  - [video](#video)
+  - [Writing](#writing)
+  - [Video](#video)
   - [Design & İmage](#design-&-image)
   - [Payment](#payment)
   - [WebSites](#websites)
