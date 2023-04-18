@@ -1,4 +1,4 @@
-# Awesome Aİ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/horhorist/awesome-ai)
+# Awesome AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/horhorist/awesome-ai)
 
 ## Contents
 
@@ -6,7 +6,7 @@
   - [Sound](#sound)
   - [Writing](#writing)
   - [Video](#video)
-  - [Design & İmage](#design-&-image)
+  - [Design & Image](#design-&-image)
   - [Payment](#payment)
   - [WebSites](#websites)
   - [Presentation](#presentation)
@@ -33,8 +33,8 @@
 - [Synthesia](https://www.synthesia.io/)
 - [Runwayml](https://runwayml.com/)
 
-## Design & Image
-- [canva](canda.com)
+## Design & Image <a id="design-&-image"></a>
+- [canva](https://www.canva.com/features/ai-photo-editing/)
 - [figma](https://www.figma.com/community/plugin/1145446664512862540/Ando---AI-Copilot-for-Designers)
 - [Uizard](https://www.uizard.io/)
 - [Galileo Ai](https://www.usegalileo.ai/)
