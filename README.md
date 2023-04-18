@@ -6,7 +6,7 @@
   - [Sound](#sound)
   - [Writing](#writing)
   - [Video](#video)
-  - [Design & İmage](#design-&-image)
+  - [Design & Tools](#design-&-tools)
   - [Payment](#payment)
   - [WebSites](#websites)
   - [Presentation](#presentation)
@@ -33,8 +33,8 @@
 - [Synthesia](https://www.synthesia.io/)
 - [Runwayml](https://runwayml.com/)
 
-## Design & Image
-- [canva](canda.com)
+## Design & Tools
+- [canva](canva.com)
 - [figma](https://www.figma.com/community/plugin/1145446664512862540/Ando---AI-Copilot-for-Designers)
 - [Uizard](https://www.uizard.io/)
 - [Galileo Ai](https://www.usegalileo.ai/)
