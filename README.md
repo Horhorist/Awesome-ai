@@ -43,6 +43,7 @@
 - [Wombo](https://app.wombo.art/)
 - [Dall-e 2](https://openai.com/dall-e-2/)
 - [Craiyon](https://www.craiyon.com/)
+- [Anime.ai](https://animeai.app/)
 
 ## Payment
 - [gumroad](https://gumroad.com/)
@@ -53,6 +54,7 @@
 - [Typedream](https://typedream.com/)
 - [WebFlow](https://webflow.com/)
 - [Framer](https://www.framer.com/)
+- [Umso](https://umso.com)
 
 ## Presentation
 - [Pitch](https://pitch.com/)
