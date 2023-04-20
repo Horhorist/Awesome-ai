@@ -4,7 +4,7 @@
 
 - [Ai](#ai)
   - [Sound](#sound)
-  - [Writing](#writing)
+  - [Writing & chatting](#writing-&-chatting)
   - [Video](#video)
   - [Design & Tools](#design-&-tools)
   - [Payment](#payment)
@@ -21,10 +21,11 @@
 - [SoundDraw](https://soundraw.io/)
 - [EcrettMusic](https://ecrettmusic.com/)
 
-## Writing
+## Writing & chatting
 - [ChatGpt](https://chat.openai.com/)
 - [Copy.ai](https://www.copy.ai/)
 - [Jasper](https://www.jasper.ai/)
+- [characakter.ai](https://beta.character.ai/)
 
 ## Video
 - [Supercreator.Ai](https://www.supercreator.ai/)
